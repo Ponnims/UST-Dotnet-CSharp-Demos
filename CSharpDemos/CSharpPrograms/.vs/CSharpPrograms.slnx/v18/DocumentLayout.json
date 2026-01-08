@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\initializerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\initializerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\collectionsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\collectionsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\genericsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\genericsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\csharpprograms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\csharpprograms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\csharpprograms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\csharpprograms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\stringstringbuilderdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\stringstringbuilderdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\arraydemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\arraydemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\typecastingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\typecastingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\enumdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\enumdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\structdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\structdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\valuetypereftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\valuetypereftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AB9413-EDF7-4B28-B21D-7D7A15F241E9}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Initializerdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Initializerdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Initializerdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Initializerdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\Initializerdemo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:38:09.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genericsdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Genericsdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Genericsdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Genericsdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\Genericsdemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:25:35.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSharpPrograms",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
+              "RelativeDocumentMoniker": "CSharpPrograms\\CSharpPrograms.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
+              "RelativeToolTip": "CSharpPrograms\\CSharpPrograms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T06:18:06.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collectionsdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Collectionsdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Collectionsdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Collectionsdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\Collectionsdemo.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:03:08.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Regexdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Regexdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Regexdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Regexdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\Regexdemo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:27:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArrayDemos.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\ArrayDemos.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\ArrayDemos.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\ArrayDemos.cs",
+              "RelativeToolTip": "CSharpPrograms\\ArrayDemos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:08:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CSharpPrograms",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
+              "RelativeDocumentMoniker": "CSharpPrograms\\CSharpPrograms.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
+              "RelativeToolTip": "CSharpPrograms\\CSharpPrograms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T04:24:57.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringStringBuilderdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\StringStringBuilderdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\StringStringBuilderdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\StringStringBuilderdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\StringStringBuilderdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:20:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Typecastingdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Typecastingdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Typecastingdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Typecastingdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\Typecastingdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:04:42.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enumdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Enumdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Enumdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Enumdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\Enumdemo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:58:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Structdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Structdemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Structdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Structdemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\Structdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:54:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Valuetypereftype.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Valuetypereftype.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Valuetypereftype.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Valuetypereftype.cs",
+              "RelativeToolTip": "CSharpPrograms\\Valuetypereftype.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:42:05.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sample.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Sample.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\Sample.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Sample.cs",
+              "RelativeToolTip": "CSharpPrograms\\Sample.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:25:19.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
