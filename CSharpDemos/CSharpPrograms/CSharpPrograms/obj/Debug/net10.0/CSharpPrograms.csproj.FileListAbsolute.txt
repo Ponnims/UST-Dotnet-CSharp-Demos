@@ -12,3 +12,4 @@ D:\Turmio.ai\UST Demos Track 2\CSharpDemos\CSharpPrograms\CSharpPrograms\obj\Deb
 D:\Turmio.ai\UST Demos Track 2\CSharpDemos\CSharpPrograms\CSharpPrograms\obj\Debug\net10.0\CSharpPrograms.pdb
 D:\Turmio.ai\UST Demos Track 2\CSharpDemos\CSharpPrograms\CSharpPrograms\obj\Debug\net10.0\CSharpPrograms.genruntimeconfig.cache
 D:\Turmio.ai\UST Demos Track 2\CSharpDemos\CSharpPrograms\CSharpPrograms\obj\Debug\net10.0\ref\CSharpPrograms.dll
+D:\Turmio.ai\UST Demos Track 2\CSharpDemos\CSharpPrograms\CSharpPrograms\obj\Debug\net10.0\CSharpPrograms.sourcelink.json

@@ -63,7 +63,7 @@ namespace CSharpPrograms
 
             // Creating an instance of Customer
             Customer newCustomer = new Customer();
-            newCustomer.CustomerId = 2;
+            //newCustomer.CustomerId = 2;
             newCustomer.CustomerName = "Jane Smith";
             newCustomer.CustomerAddress = "456 Elm St";
             newCustomer.DisplayCustomerInfo();
@@ -71,6 +71,6 @@ namespace CSharpPrograms
     }
 }
 
-        }
-    }
-}
+
+
+
