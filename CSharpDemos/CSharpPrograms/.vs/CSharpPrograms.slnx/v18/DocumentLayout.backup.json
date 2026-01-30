@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\errorlogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\errorlogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\csharpprograms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\csharpprograms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\filestreamdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\filestreamdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\filedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\filedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\textreaderwriterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\textreaderwriterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\fileinfodemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\fileinfodemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\stringreaderwriterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\stringreaderwriterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\noteligleforvotingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\simpleexceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\simpleexceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\csharpprograms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|solutionrelative:csharpprograms\\csharpprograms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66BA37AE-10DD-777D-798A-B5069D22B9B4}|CSharpPrograms\\CSharpPrograms.csproj|d:\\turmio.ai\\ust demos track 2\\csharpdemos\\csharpprograms\\csharpprograms\\xmlserializationdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Collectionsdemo.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Collectionsdemo.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Collectionsdemo.cs",
@@ -83,52 +111,77 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T06:03:08.507Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelegateDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\DelegateDemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\DelegateDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\DelegateDemo.cs*",
+              "RelativeToolTip": "CSharpPrograms\\DelegateDemo.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:48:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorLogging.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\ErrorLogging.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\ErrorLogging.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\ErrorLogging.cs",
+              "RelativeToolTip": "CSharpPrograms\\ErrorLogging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:34:40.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NotEligleForVotingException.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\NotEligleForVotingException.cs",
-              "RelativeDocumentMoniker": "CSharpPrograms\\NotEligleForVotingException.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\NotEligleForVotingException.cs",
-              "RelativeToolTip": "CSharpPrograms\\NotEligleForVotingException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T05:40:41.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Voting.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Voting.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Voting.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Voting.cs*",
-              "RelativeToolTip": "CSharpPrograms\\Voting.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Voting.cs",
+              "RelativeToolTip": "CSharpPrograms\\Voting.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wCUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T05:37:10.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SimpleExceptionDemo.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\SimpleExceptionDemo.cs",
-              "RelativeDocumentMoniker": "CSharpPrograms\\SimpleExceptionDemo.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\SimpleExceptionDemo.cs",
-              "RelativeToolTip": "CSharpPrograms\\SimpleExceptionDemo.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FileDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\FileDemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\FileDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\FileDemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\FileDemo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T05:13:05.853Z",
+              "WhenOpened": "2026-01-30T04:29:31.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStreamDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\FileStreamDemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\FileStreamDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\FileStreamDemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\FileStreamDemo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:44:55.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CSharpPrograms",
+              "Title": "CSharpPrograms.csproj",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
               "RelativeDocumentMoniker": "CSharpPrograms\\CSharpPrograms.csproj",
               "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
@@ -140,7 +193,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "TextReaderWriterDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\TextReaderWriterDemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\TextReaderWriterDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\TextReaderWriterDemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\TextReaderWriterDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:11:20.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileInfoDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\FileInfoDemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\FileInfoDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\FileInfoDemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\FileInfoDemo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:21:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StringReaderWriterDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\StringReaderWriterDemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\StringReaderWriterDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\StringReaderWriterDemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\StringReaderWriterDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:02:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotEligleForVotingException.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\NotEligleForVotingException.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\NotEligleForVotingException.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\NotEligleForVotingException.cs",
+              "RelativeToolTip": "CSharpPrograms\\NotEligleForVotingException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:40:41.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleExceptionDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\SimpleExceptionDemo.cs",
+              "RelativeDocumentMoniker": "CSharpPrograms\\SimpleExceptionDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\SimpleExceptionDemo.cs",
+              "RelativeToolTip": "CSharpPrograms\\SimpleExceptionDemo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:13:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "XmlSerializationdemo.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\XmlSerializationdemo.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\XmlSerializationdemo.cs",
@@ -148,12 +264,11 @@
               "RelativeToolTip": "CSharpPrograms\\XmlSerializationdemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T04:39:55.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T04:39:55.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "student.xml",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\student.xml",
               "RelativeDocumentMoniker": "CSharpPrograms\\student.xml",
@@ -161,12 +276,11 @@
               "RelativeToolTip": "CSharpPrograms\\student.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-01-29T04:38:25.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T04:38:25.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Student.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Student.cs",
@@ -174,12 +288,11 @@
               "RelativeToolTip": "CSharpPrograms\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T04:27:37.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T04:27:37.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "JsonSerializationDemo.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\JsonSerializationDemo.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\JsonSerializationDemo.cs",
@@ -187,12 +300,11 @@
               "RelativeToolTip": "CSharpPrograms\\JsonSerializationDemo.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T04:28:37.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T04:28:37.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "OOpsBasics.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\OOpsBasics.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\OOpsBasics.cs",
@@ -200,12 +312,11 @@
               "RelativeToolTip": "CSharpPrograms\\OOpsBasics.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAIAwwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T04:32:31.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T04:32:31.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Typecastingdemo.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Typecastingdemo.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Typecastingdemo.cs",
@@ -217,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Enumdemo.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Enumdemo.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Enumdemo.cs",
@@ -229,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Structdemo.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Structdemo.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Structdemo.cs",
@@ -241,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Valuetypereftype.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Valuetypereftype.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Valuetypereftype.cs",
@@ -253,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Sample.cs",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpDemos\\CSharpPrograms\\CSharpPrograms\\Sample.cs",
               "RelativeDocumentMoniker": "CSharpPrograms\\Sample.cs",

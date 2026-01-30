@@ -1,0 +1,3 @@
+Hello, this is a demo file using FileStream.
+Lets Learn FileStream Concepts.
+FileStream allows reading and writing bytes to files.

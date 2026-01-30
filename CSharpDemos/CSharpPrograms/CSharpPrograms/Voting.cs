@@ -29,7 +29,15 @@ namespace CSharpPrograms
             }
             catch(NotEligleForVotingException ex)
             {
+                
                 Console.WriteLine("Voting Eligibility Error: " + ex.Message);
+                var errordetails = $"This error is raised at {DateTime.Now} and" +
+                    $"This error happend in the method {ex.Source}";
+                // log the error message into a file.
+                // Errorlogging.logerror("pass the details of the exception
+                // so that the developer can refer it later ");
+                ErrorLogging.LogError($"Error logged : {errordetails}");
+
             }
             finally
             {
