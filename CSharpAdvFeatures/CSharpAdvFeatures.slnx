@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CSharpAdvFeatures/CSharpAdvFeatures.csproj" />
+  <Project Path="EXtensionMethods/EXtensionMethods.csproj" />
+</Solution>

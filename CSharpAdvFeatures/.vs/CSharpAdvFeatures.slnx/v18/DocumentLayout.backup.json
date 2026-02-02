@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\recordsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\recordsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\csharpadvfeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\csharpadvfeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\rawstringliterals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\rawstringliterals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\localfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\localfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\deconstructiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\deconstructiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\switchexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\switchexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\usingnewway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\usingnewway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\tuplewithnamedelementsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\tuplewithnamedelementsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\primaryconstructordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\primaryconstructordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\nullablereferencetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\nullablereferencetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\targettypednew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\targettypednew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\collectionexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\collectionexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\initonlyproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\initonlyproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\csharpadvfeatures\\extensionmethoddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809C4F1-ADA4-46ED-82E3-F97C63752B41}|CSharpAdvFeatures\\CSharpAdvFeatures.csproj|solutionrelative:csharpadvfeatures\\extensionmethoddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3834B3-3013-451C-848A-7DB3A9FB463E}|EXtensionMethods\\EXtensionMethods.csproj|d:\\turmio.ai\\ust demos track 2\\csharpadvfeatures\\extensionmethods\\myextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3834B3-3013-451C-848A-7DB3A9FB463E}|EXtensionMethods\\EXtensionMethods.csproj|solutionrelative:extensionmethods\\myextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RawStringLiterals.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\RawStringLiterals.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\RawStringLiterals.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\RawStringLiterals.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\RawStringLiterals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:51:30.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LOcalFunction.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\LOcalFunction.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\LOcalFunction.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\LOcalFunction.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\LOcalFunction.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:46:41.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeConstructionDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\DeConstructionDemo.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\DeConstructionDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\DeConstructionDemo.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\DeConstructionDemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:40:31.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordsDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\RecordsDemo.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\RecordsDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\RecordsDemo.cs*",
+              "RelativeToolTip": "CSharpAdvFeatures\\RecordsDemo.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:16:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSharpAdvFeatures",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\CSharpAdvFeatures.csproj",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\CSharpAdvFeatures.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\CSharpAdvFeatures.csproj*",
+              "RelativeToolTip": "CSharpAdvFeatures\\CSharpAdvFeatures.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T04:31:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwitchExpressions.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\SwitchExpressions.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\SwitchExpressions.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\SwitchExpressions.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\SwitchExpressions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:35:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsingNewway.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\UsingNewway.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\UsingNewway.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\UsingNewway.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\UsingNewway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:27:30.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TuplewithNamedElementsdemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\TuplewithNamedElementsdemo.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\TuplewithNamedElementsdemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\TuplewithNamedElementsdemo.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\TuplewithNamedElementsdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:23:36.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrimaryConstructorDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\PrimaryConstructorDemo.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\PrimaryConstructorDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\PrimaryConstructorDemo.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\PrimaryConstructorDemo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:06:31.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NullableReferenceTypes.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\NullableReferenceTypes.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\NullableReferenceTypes.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\NullableReferenceTypes.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\NullableReferenceTypes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:58:37.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollectionExpressions.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\CollectionExpressions.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\CollectionExpressions.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\CollectionExpressions.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\CollectionExpressions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:55:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TargetTypedNew.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\TargetTypedNew.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\TargetTypedNew.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\TargetTypedNew.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\TargetTypedNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:51:51.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InitOnlyProperties.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\InitOnlyProperties.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\InitOnlyProperties.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\InitOnlyProperties.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\InitOnlyProperties.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:45:59.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyExtension.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\EXtensionMethods\\MyExtension.cs",
+              "RelativeDocumentMoniker": "EXtensionMethods\\MyExtension.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\EXtensionMethods\\MyExtension.cs",
+              "RelativeToolTip": "EXtensionMethods\\MyExtension.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:27:44.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExtensionMethodDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\ExtensionMethodDemo.cs",
+              "RelativeDocumentMoniker": "CSharpAdvFeatures\\ExtensionMethodDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\CSharpAdvFeatures\\CSharpAdvFeatures\\ExtensionMethodDemo.cs",
+              "RelativeToolTip": "CSharpAdvFeatures\\ExtensionMethodDemo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:20:46.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
