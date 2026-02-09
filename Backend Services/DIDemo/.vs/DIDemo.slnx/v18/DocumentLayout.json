@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\DIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170AAD1C-F8E6-43C1-826D-0B0661BE5C50}|DIDemo\\DIDemo.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\didemo\\didemo\\dependancyinjdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170AAD1C-F8E6-43C1-826D-0B0661BE5C50}|DIDemo\\DIDemo.csproj|solutionrelative:didemo\\dependancyinjdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependancyInjDemo.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\DIDemo\\DIDemo\\DependancyInjDemo.cs",
+              "RelativeDocumentMoniker": "DIDemo\\DependancyInjDemo.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\DIDemo\\DIDemo\\DependancyInjDemo.cs*",
+              "RelativeToolTip": "DIDemo\\DependancyInjDemo.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:56:32.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

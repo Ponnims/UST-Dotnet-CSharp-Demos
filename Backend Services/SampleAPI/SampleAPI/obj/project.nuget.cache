@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rPFOZycEmIE=",
+  "success": true,
+  "projectFilePath": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\SampleAPI\\SampleAPI\\SampleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

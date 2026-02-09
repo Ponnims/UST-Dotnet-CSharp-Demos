@@ -1,0 +1,15 @@
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\bin\Debug\net10.0\DIDemo.exe
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\bin\Debug\net10.0\DIDemo.deps.json
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\bin\Debug\net10.0\DIDemo.runtimeconfig.json
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\bin\Debug\net10.0\DIDemo.dll
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\bin\Debug\net10.0\DIDemo.pdb
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.AssemblyInfoInputs.cache
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.AssemblyInfo.cs
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.csproj.CoreCompileInputs.cache
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.sourcelink.json
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.dll
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\refint\DIDemo.dll
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.pdb
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\DIDemo.genruntimeconfig.cache
+D:\Turmio.ai\UST Demos Track 2\Backend Services\DIDemo\DIDemo\obj\Debug\net10.0\ref\DIDemo.dll
