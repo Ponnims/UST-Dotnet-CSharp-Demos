@@ -1,0 +1,16 @@
+﻿Return type of ActionMethods
+
+ActionResult : It is a base class for all action results. 
+It allows you to return different types of responses from your controller actions, 
+such as views, JSON data, or redirects, status codes.
+
+IActionResult : It is an interface that defines a contract for action results.
+
+ObjectResult : It is a specific type of ActionResult 
+that represents an HTTP response with a status code and a value.
+It is commonly used to return data in formats like JSON or XML,
+
+FileResult : It is a specific type of ActionResult that represents a file response.
+It is used to return files to the client, such as images, documents, or any other type of file.
+
+ContentResult : It is a specific type of ActionResult that represents a content response.

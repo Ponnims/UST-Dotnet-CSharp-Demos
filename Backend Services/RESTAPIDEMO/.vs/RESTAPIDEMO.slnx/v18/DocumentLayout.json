@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\restapidemo\\restapidemo\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|solutionrelative:restapidemo\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\restapidemo\\restapidemo\\models\\traineedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|solutionrelative:restapidemo\\models\\traineedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\restapidemo\\restapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|solutionrelative:restapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\restapidemo\\restapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|solutionrelative:restapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\restapidemo\\restapidemo\\restapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|solutionrelative:restapidemo\\restapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\restapidemo\\restapidemo\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|solutionrelative:restapidemo\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|d:\\turmio.ai\\ust demos track 2\\backend services\\restapidemo\\restapidemo\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1EE4F670-1F24-4EAB-B9DA-A8646BFFF609}|RESTAPIDEMO\\RESTAPIDEMO.csproj|solutionrelative:restapidemo\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Program.cs",
+              "RelativeDocumentMoniker": "RESTAPIDEMO\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Program.cs",
+              "RelativeToolTip": "RESTAPIDEMO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:48:57.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\appsettings.json",
+              "RelativeDocumentMoniker": "RESTAPIDEMO\\appsettings.json",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\appsettings.json",
+              "RelativeToolTip": "RESTAPIDEMO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T04:46:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TraineeDBContext.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Models\\TraineeDBContext.cs",
+              "RelativeDocumentMoniker": "RESTAPIDEMO\\Models\\TraineeDBContext.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Models\\TraineeDBContext.cs",
+              "RelativeToolTip": "RESTAPIDEMO\\Models\\TraineeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:42:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "RESTAPIDEMO\\Models\\Trainee.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Models\\Trainee.cs",
+              "RelativeToolTip": "RESTAPIDEMO\\Models\\Trainee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:39:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "RESTAPIDEMO\\Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "RESTAPIDEMO\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:30:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RESTAPIDEMO",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\RESTAPIDEMO.csproj",
+              "RelativeDocumentMoniker": "RESTAPIDEMO\\RESTAPIDEMO.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\RESTAPIDEMO.csproj",
+              "RelativeToolTip": "RESTAPIDEMO\\RESTAPIDEMO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T04:24:05.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Notes.txt",
+              "RelativeDocumentMoniker": "RESTAPIDEMO\\Notes.txt",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\Backend Services\\RESTAPIDEMO\\RESTAPIDEMO\\Notes.txt",
+              "RelativeToolTip": "RESTAPIDEMO\\Notes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-10T04:24:40.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
