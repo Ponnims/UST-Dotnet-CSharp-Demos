@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\SerilogDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145F8659-D830-4FCF-96D4-684D48C98B90}|SerilogDemo\\SerilogDemo.csproj|d:\\turmio.ai\\ust demos track 2\\serilogdemo\\serilogdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145F8659-D830-4FCF-96D4-684D48C98B90}|SerilogDemo\\SerilogDemo.csproj|solutionrelative:serilogdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145F8659-D830-4FCF-96D4-684D48C98B90}|SerilogDemo\\SerilogDemo.csproj|d:\\turmio.ai\\ust demos track 2\\serilogdemo\\serilogdemo\\controllers\\serlogdemoocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145F8659-D830-4FCF-96D4-684D48C98B90}|SerilogDemo\\SerilogDemo.csproj|solutionrelative:serilogdemo\\controllers\\serlogdemoocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145F8659-D830-4FCF-96D4-684D48C98B90}|SerilogDemo\\SerilogDemo.csproj|d:\\turmio.ai\\ust demos track 2\\serilogdemo\\serilogdemo\\logs\\log202602111101.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{145F8659-D830-4FCF-96D4-684D48C98B90}|SerilogDemo\\SerilogDemo.csproj|solutionrelative:serilogdemo\\logs\\log202602111101.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log202602111101.txt",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\SerilogDemo\\SerilogDemo\\logs\\log202602111101.txt",
+              "RelativeDocumentMoniker": "SerilogDemo\\logs\\log202602111101.txt",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\SerilogDemo\\SerilogDemo\\logs\\log202602111101.txt",
+              "RelativeToolTip": "SerilogDemo\\logs\\log202602111101.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-11T05:41:55.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerlogdemooController.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\SerilogDemo\\SerilogDemo\\Controllers\\SerlogdemooController.cs",
+              "RelativeDocumentMoniker": "SerilogDemo\\Controllers\\SerlogdemooController.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\SerilogDemo\\SerilogDemo\\Controllers\\SerlogdemooController.cs",
+              "RelativeToolTip": "SerilogDemo\\Controllers\\SerlogdemooController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:18:28.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\SerilogDemo\\SerilogDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SerilogDemo\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\SerilogDemo\\SerilogDemo\\Program.cs",
+              "RelativeToolTip": "SerilogDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:11:12.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

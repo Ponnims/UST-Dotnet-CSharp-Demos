@@ -1,0 +1,27 @@
+﻿@page "/add-new-learner"
+
+@rendermode InteractiveServer
+@inject LearnerApiService Api
+
+
+<h3>Learner Management System</h3>
+
+<div class="card shadow mb-4 p-3">
+    <h5>Add Learner</h5>
+
+    <input class=" form-control mb-3" placeholder="Enter Learner Name" @bind="newlearner.Name" />
+    <input class=" form-control mb-3" placeholder="Enter Learner Stream" @bind="newlearner.Stream" />
+    <input class=" form-control mb-3" placeholder="Enter Learner Score" @bind="newlearner.Score" />
+
+    <button class="btn btn-success" @onclick="AddLearner">Add Learner</button>
+</div>
+
+@code {
+    LearnerDto newlearner = new LearnerDto();
+
+    async Task AddLearner()
+    {
+        await Api.AddLearnerAsync(newlearner);
+        newlearner = new LearnerDto();
+    }
+}

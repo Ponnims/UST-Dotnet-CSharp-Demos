@@ -1,0 +1,13 @@
+2026-02-11 10:59:44.330 +05:30 [INF] Now listening on: https://localhost:7099
+2026-02-11 10:59:44.510 +05:30 [INF] Now listening on: http://localhost:5295
+2026-02-11 10:59:44.713 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-11 10:59:44.713 +05:30 [INF] Hosting environment: Development
+2026-02-11 10:59:44.713 +05:30 [INF] Content root path: D:\Turmio.ai\UST Demos Track 2\SerilogDemo\SerilogDemo
+2026-02-11 10:59:55.326 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7099/api/Serlogdemoo/error - null null
+2026-02-11 10:59:56.125 +05:30 [INF] Executing endpoint 'SerilogDemo.Controllers.SerlogdemooController.GetError (SerilogDemo)'
+2026-02-11 10:59:56.233 +05:30 [INF] Route matched with {action = "GetError", controller = "Serlogdemoo"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetError() on controller SerilogDemo.Controllers.SerlogdemooController (SerilogDemo).
+2026-02-11 10:59:56.240 +05:30 [ERR] An error occurred in your API
+2026-02-11 10:59:56.256 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-02-11 10:59:56.350 +05:30 [INF] Executed action SerilogDemo.Controllers.SerlogdemooController.GetError (SerilogDemo) in 101.2303ms
+2026-02-11 10:59:56.351 +05:30 [INF] Executed endpoint 'SerilogDemo.Controllers.SerlogdemooController.GetError (SerilogDemo)'
+2026-02-11 10:59:56.367 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7099/api/Serlogdemoo/error - 500 null text/plain; charset=utf-8 1047.5285ms

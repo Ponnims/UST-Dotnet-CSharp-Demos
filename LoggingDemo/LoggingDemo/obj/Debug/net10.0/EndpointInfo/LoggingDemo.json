@@ -1,0 +1,85 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "LoggingDemo | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7069"
+    },
+    {
+      "url": "http://localhost:5215"
+    }
+  ],
+  "paths": {
+    "/api/Test/error": {
+      "get": {
+        "tags": [
+          "Test"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Test/success": {
+      "get": {
+        "tags": [
+          "Test"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Values/log-information": {
+      "get": {
+        "tags": [
+          "Values"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Values/log-warning": {
+      "get": {
+        "tags": [
+          "Values"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Values/log-error": {
+      "get": {
+        "tags": [
+          "Values"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Test"
+    },
+    {
+      "name": "Values"
+    }
+  ]
+}

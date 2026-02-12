@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F95B5-6A7F-1373-9B24-C5F98605030F}|..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F95B5-6A7F-1373-9B24-C5F98605030F}|..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\models\\learnerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F95B5-6A7F-1373-9B24-C5F98605030F}|..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F95B5-6A7F-1373-9B24-C5F98605030F}|..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Program.cs",
+              "RelativeToolTip": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:51:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnerDbContext.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
+              "RelativeToolTip": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:50:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\appsettings.json",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\appsettings.json",
+              "RelativeToolTip": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T04:47:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "..\\..\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:46:41.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

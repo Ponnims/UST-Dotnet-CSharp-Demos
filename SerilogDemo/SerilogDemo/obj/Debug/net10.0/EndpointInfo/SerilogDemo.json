@@ -1,0 +1,46 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "SerilogDemo | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7099"
+    },
+    {
+      "url": "http://localhost:5295"
+    }
+  ],
+  "paths": {
+    "/api/Serlogdemoo/info": {
+      "get": {
+        "tags": [
+          "Serlogdemoo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Serlogdemoo/error": {
+      "get": {
+        "tags": [
+          "Serlogdemoo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Serlogdemoo"
+    }
+  ]
+}

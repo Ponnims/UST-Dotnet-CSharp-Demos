@@ -1,0 +1,8 @@
+2026-02-11 11:00:00.997 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7099/api/Serlogdemoo/info - null null
+2026-02-11 11:00:01.065 +05:30 [INF] Executing endpoint 'SerilogDemo.Controllers.SerlogdemooController.GetInfo (SerilogDemo)'
+2026-02-11 11:00:01.069 +05:30 [INF] Route matched with {action = "GetInfo", controller = "Serlogdemoo"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetInfo() on controller SerilogDemo.Controllers.SerlogdemooController (SerilogDemo).
+2026-02-11 11:00:01.070 +05:30 [INF] This is an informational message using Serilog
+2026-02-11 11:00:01.071 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2026-02-11 11:00:01.072 +05:30 [INF] Executed action SerilogDemo.Controllers.SerlogdemooController.GetInfo (SerilogDemo) in 2.2428ms
+2026-02-11 11:00:01.072 +05:30 [INF] Executed endpoint 'SerilogDemo.Controllers.SerlogdemooController.GetInfo (SerilogDemo)'
+2026-02-11 11:00:01.073 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7099/api/Serlogdemoo/info - 200 null text/plain; charset=utf-8 76.0879ms

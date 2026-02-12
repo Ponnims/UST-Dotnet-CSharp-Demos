@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "LearnerAPI.Controllers.LearnerController",
+    "Method": "GetLearners",
+    "RelativePath": "api/Learner",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LearnerAPI.Controllers.LearnerController",
+    "Method": "AddLearner",
+    "RelativePath": "api/Learner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "learner",
+        "Type": "LearnerAPI.Models.Learner",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LearnerAPI.Controllers.LearnerController",
+    "Method": "UpdateLearner",
+    "RelativePath": "api/Learner/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "learner",
+        "Type": "LearnerAPI.Models.Learner",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LearnerAPI.Controllers.LearnerController",
+    "Method": "DeleteLearner",
+    "RelativePath": "api/Learner/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

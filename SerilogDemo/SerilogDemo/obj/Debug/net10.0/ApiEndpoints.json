@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "SerilogDemo.Controllers.SerlogdemooController",
+    "Method": "GetError",
+    "RelativePath": "api/Serlogdemoo/error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerilogDemo.Controllers.SerlogdemooController",
+    "Method": "GetInfo",
+    "RelativePath": "api/Serlogdemoo/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

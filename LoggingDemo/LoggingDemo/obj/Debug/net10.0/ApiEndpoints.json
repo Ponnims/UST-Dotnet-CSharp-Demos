@@ -1,0 +1,52 @@
+[
+  {
+    "ContainingType": "LoggingDemo.Controllers.TestController",
+    "Method": "GetError",
+    "RelativePath": "api/Test/error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingDemo.Controllers.TestController",
+    "Method": "GetSuccess",
+    "RelativePath": "api/Test/success",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingDemo.Controllers.ValuesController",
+    "Method": "LogError",
+    "RelativePath": "api/Values/log-error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingDemo.Controllers.ValuesController",
+    "Method": "LogInformation",
+    "RelativePath": "api/Values/log-information",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingDemo.Controllers.ValuesController",
+    "Method": "LogWarning",
+    "RelativePath": "api/Values/log-warning",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

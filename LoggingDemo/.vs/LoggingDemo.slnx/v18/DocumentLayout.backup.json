@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|d:\\turmio.ai\\ust demos track 2\\loggingdemo\\loggingdemo\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|d:\\turmio.ai\\ust demos track 2\\loggingdemo\\loggingdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|d:\\turmio.ai\\ust demos track 2\\loggingdemo\\loggingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|d:\\turmio.ai\\ust demos track 2\\loggingdemo\\loggingdemo\\loggingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\loggingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|d:\\turmio.ai\\ust demos track 2\\loggingdemo\\loggingdemo\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CC89FD-E3D9-4CCF-8D72-10B6D822C94B}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "LoggingDemo\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Controllers\\TestController.cs",
+              "RelativeToolTip": "LoggingDemo\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:55:42.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "LoggingDemo\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "LoggingDemo\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:35:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingDemo",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\LoggingDemo.csproj",
+              "RelativeDocumentMoniker": "LoggingDemo\\LoggingDemo.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\LoggingDemo.csproj",
+              "RelativeToolTip": "LoggingDemo\\LoggingDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T04:35:07.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingDemo\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Program.cs",
+              "RelativeToolTip": "LoggingDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:15:01.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "LoggingDemo\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\LoggingDemo\\LoggingDemo\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "LoggingDemo\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:13:09.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
