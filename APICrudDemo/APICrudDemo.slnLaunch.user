@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "LearnerApp\\LearnerApp.csproj",
+        "Path": "AuthenticationService\\AuthenticationService.csproj",
         "Action": "Start"
       }
     ]

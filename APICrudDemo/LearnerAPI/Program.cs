@@ -1,5 +1,8 @@
 using LearnerAPI.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +14,22 @@ builder.Services.AddOpenApi();
 builder.Services.AddDbContext<LearnerDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection")));
 
+var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("This is my UST Teams Training Secret Key"));
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(op => op.TokenValidationParameters = new TokenValidationParameters()
+{
+    ValidateAudience=true,
+    ValidateIssuer=true,
+    ValidateIssuerSigningKey=true,
+    
+    ValidAudience="learnerapi",
+    ValidIssuer="authapi",
+    IssuerSigningKey=key
+});
+
 
 var app = builder.Build();
 
@@ -21,7 +40,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

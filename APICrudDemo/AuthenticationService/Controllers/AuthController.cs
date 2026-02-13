@@ -37,7 +37,7 @@ namespace AuthenticationService.Controllers
             var res = repo.Login(user);
             if(res!=null)
             {
-                return Ok(tokengen.GenerateToken(user.Email));
+                return Ok(tokengen.GenerateToken(user.Email,res.Role));
             }
             else
             {
