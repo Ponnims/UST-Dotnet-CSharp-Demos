@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
+      "projectUniqueName": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
       "projectName": "LearnerApp",
-      "projectPath": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
+      "projectPath": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\obj\\",
+      "outputPath": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

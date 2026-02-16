@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj": {}
+    "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj": {}
   },
   "projects": {
-    "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj": {
+    "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
+        "projectUniqueName": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
         "projectName": "LearnerAPI",
-        "projectPath": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
+        "projectPath": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\obj\\",
+        "outputPath": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

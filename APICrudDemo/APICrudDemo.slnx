@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="APIGateway/APIGateway.csproj" Id="7fe92887-07d4-4155-800e-6c94f0767401" />
   <Project Path="AuthenticationService/AuthenticationService.csproj" Id="34d2b2d6-314c-4dce-a82d-9dd17a3dde20" />
   <Project Path="LearnerAPI/LearnerAPI.csproj" />
   <Project Path="LearnerApp/LearnerApp.csproj" />

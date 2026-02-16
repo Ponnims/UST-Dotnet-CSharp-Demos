@@ -18,14 +18,14 @@ namespace LearnerAPI.Controllers
         }
 
         [HttpGet]
-        [Authorize (Roles ="Mentor,Learner")]
+      //  [Authorize (Roles ="Mentor,Learner")]
         public IActionResult GetLearners()
         {
             var learners = context.Tbl_Learner.ToList();
             return Ok(learners);
         }
 
-        [Authorize (Roles ="Mentor")]
+    //    [Authorize (Roles ="Mentor")]
         [HttpPost]
         public IActionResult AddLearner([FromBody] Learner learner)
         {

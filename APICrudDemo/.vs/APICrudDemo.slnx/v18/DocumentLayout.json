@@ -1,105 +1,128 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\",
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapi\\serviceregistryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\serviceregistryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\learnerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\learnerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\authenticationservice\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\components\\pages\\addnewlearner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapi\\learnerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\learnerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserAuthDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapi\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FE92887-07D4-4155-800E-6C94F0767401}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\authenticationservice\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B2D6-314C-4DCE-A82D-9DD17A3DDE20}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\components\\pages\\addnewlearner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\components\\pages\\addnewlearner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\components\\pages\\learnerlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\components\\pages\\learnerlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\components\\pages\\learnerlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\services\\learnerapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\services\\learnerapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\services\\learnerapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\components\\pages\\editlearner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\components\\pages\\editlearner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\components\\pages\\editlearner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\learnerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\learnerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\learnerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapp\\models\\learnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapp\\models\\learnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E44280E-DE14-38DF-2BFE-725A8A1F7F38}|LearnerApp\\LearnerApp.csproj|solutionrelative:learnerapp\\models\\learnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapi\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 4\\apicruddemo\\learnerapi\\models\\learnerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|d:\\turmio.ai\\ust demos track 2\\apicruddemo\\learnerapi\\models\\learnerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17B0D37A-E092-BF22-2B7B-56407A043E33}|LearnerAPI\\LearnerAPI.csproj|solutionrelative:learnerapi\\models\\learnerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,41 +133,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LearnerController.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
-              "RelativeDocumentMoniker": "LearnerAPI\\Controllers\\LearnerController.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
-              "RelativeToolTip": "LearnerAPI\\Controllers\\LearnerController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistryExtensions.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\ServiceRegistryExtensions.cs",
+              "RelativeDocumentMoniker": "LearnerAPI\\ServiceRegistryExtensions.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\ServiceRegistryExtensions.cs",
+              "RelativeToolTip": "LearnerAPI\\ServiceRegistryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:38:45.994Z",
+              "WhenOpened": "2026-02-16T05:55:33.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "APIGateway",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T04:32:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\Ocelot.json",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Ocelot.json",
+              "RelativeToolTip": "APIGateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T04:17:42.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TokenGenerator.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Services\\TokenGenerator.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Services\\TokenGenerator.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Services\\TokenGenerator.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Services\\TokenGenerator.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Services\\TokenGenerator.cs",
               "RelativeToolTip": "AuthenticationService\\Services\\TokenGenerator.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowBoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T05:33:55.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnerAPI\\appsettings.json",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\appsettings.json",
+              "RelativeToolTip": "LearnerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-20T04:34:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LearnerAPI\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Program.cs",
+              "RelativeToolTip": "LearnerAPI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:36:38.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:18:18.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserAuthDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-16T05:34:36.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LearnerAPI.csproj",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
+              "RelativeDocumentMoniker": "LearnerAPI\\LearnerAPI.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
+              "RelativeToolTip": "LearnerAPI\\LearnerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T04:27:52.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "LearnerAPI\\Controllers\\LearnerController.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "LearnerAPI\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:38:45.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T04:25:08.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AuthenticationService.csproj",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\AuthenticationService.csproj",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\AuthenticationService.csproj",
               "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\AuthenticationService.csproj",
               "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -153,50 +290,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LearnerAPI.csproj",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
-              "RelativeDocumentMoniker": "LearnerAPI\\LearnerAPI.csproj",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\LearnerAPI.csproj",
-              "RelativeToolTip": "LearnerAPI\\LearnerAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T04:27:52.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Program.cs",
-              "RelativeDocumentMoniker": "LearnerAPI\\Program.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Program.cs",
-              "RelativeToolTip": "LearnerAPI\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:36:38.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Controllers\\AuthController.cs",
               "RelativeToolTip": "AuthenticationService\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAABQwCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T05:26:16.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ITokenGenerator.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Services\\ITokenGenerator.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Services\\ITokenGenerator.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Services\\ITokenGenerator.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Services\\ITokenGenerator.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Services\\ITokenGenerator.cs",
               "RelativeToolTip": "AuthenticationService\\Services\\ITokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,24 +316,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Models\\User.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Models\\User.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Models\\User.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Models\\User.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Models\\User.cs",
               "RelativeToolTip": "AuthenticationService\\Models\\User.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T05:06:41.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Repository\\UserRepository.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Repository\\UserRepository.cs",
               "RelativeToolTip": "AuthenticationService\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\appsettings.json",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\appsettings.json",
               "RelativeDocumentMoniker": "AuthenticationService\\appsettings.json",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\appsettings.json",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\appsettings.json",
               "RelativeToolTip": "AuthenticationService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -244,11 +355,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Program.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Program.cs",
               "RelativeToolTip": "AuthenticationService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,11 +368,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Repository\\IUserRepository.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Repository\\IUserRepository.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Repository\\IUserRepository.cs",
               "RelativeToolTip": "AuthenticationService\\Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,11 +381,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "UserDbContext.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Models\\UserDbContext.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Models\\UserDbContext.cs",
               "RelativeDocumentMoniker": "AuthenticationService\\Models\\UserDbContext.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\AuthenticationService\\Models\\UserDbContext.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\AuthenticationService\\Models\\UserDbContext.cs",
               "RelativeToolTip": "AuthenticationService\\Models\\UserDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,24 +394,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "LearnerAPI\\appsettings.json",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\appsettings.json",
-              "RelativeToolTip": "LearnerAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-20T04:34:05.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\_Imports.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "LearnerApp\\Components\\_Imports.razor",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\_Imports.razor",
               "RelativeToolTip": "LearnerApp\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -309,11 +407,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "AddNewLearner.razor",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Pages\\AddNewLearner.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Pages\\AddNewLearner.razor",
               "RelativeDocumentMoniker": "LearnerApp\\Components\\Pages\\AddNewLearner.razor",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Pages\\AddNewLearner.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Pages\\AddNewLearner.razor",
               "RelativeToolTip": "LearnerApp\\Components\\Pages\\AddNewLearner.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -322,11 +420,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "LearnerApiService.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Services\\LearnerApiService.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Services\\LearnerApiService.cs",
               "RelativeDocumentMoniker": "LearnerApp\\Services\\LearnerApiService.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Services\\LearnerApiService.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Services\\LearnerApiService.cs",
               "RelativeToolTip": "LearnerApp\\Services\\LearnerApiService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +433,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Program.cs",
               "RelativeDocumentMoniker": "LearnerApp\\Program.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Program.cs",
               "RelativeToolTip": "LearnerApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,11 +446,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "LearnerList.razor",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Pages\\LearnerList.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Pages\\LearnerList.razor",
               "RelativeDocumentMoniker": "LearnerApp\\Components\\Pages\\LearnerList.razor",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Pages\\LearnerList.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Pages\\LearnerList.razor",
               "RelativeToolTip": "LearnerApp\\Components\\Pages\\LearnerList.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -361,11 +459,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "LearnerApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "LearnerApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -374,11 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "EditLearner.razor",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Pages\\EditLearner.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Pages\\EditLearner.razor",
               "RelativeDocumentMoniker": "LearnerApp\\Components\\Pages\\EditLearner.razor",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Components\\Pages\\EditLearner.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Components\\Pages\\EditLearner.razor",
               "RelativeToolTip": "LearnerApp\\Components\\Pages\\EditLearner.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -387,11 +485,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "LearnerApp.csproj",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
               "RelativeDocumentMoniker": "LearnerApp\\LearnerApp.csproj",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\LearnerApp.csproj",
               "RelativeToolTip": "LearnerApp\\LearnerApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -400,11 +498,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "LearnerDto.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Models\\LearnerDto.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Models\\LearnerDto.cs",
               "RelativeDocumentMoniker": "LearnerApp\\Models\\LearnerDto.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerApp\\Models\\LearnerDto.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerApp\\Models\\LearnerDto.cs",
               "RelativeToolTip": "LearnerApp\\Models\\LearnerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +511,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Learner.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\Learner.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Models\\Learner.cs",
               "RelativeDocumentMoniker": "LearnerAPI\\Models\\Learner.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\Learner.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Models\\Learner.cs",
               "RelativeToolTip": "LearnerAPI\\Models\\Learner.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -426,11 +524,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "LearnerDbContext.cs",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
               "RelativeDocumentMoniker": "LearnerAPI\\Models\\LearnerDbContext.cs",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\LearnerAPI\\Models\\LearnerDbContext.cs",
               "RelativeToolTip": "LearnerAPI\\Models\\LearnerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
