@@ -1,25 +1,13 @@
 {
   "Routes": [
     {
-      "UpstreamHttpMethod": [ "Get" ],
-      "UpstreamPathTemplate": "/frontendlearner",
+      "UseServiceDiscovery": true,
       "DownstreamPathTemplate": "/api/learner",
       "DownstreamScheme": "http",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5225
-        }
-      ],
-      "AuthenticationOptions": {
-        "AllowedScopes": [],
-        "AuthenticationProviderKey": "token"
-      },
-      "RouteClaimsRequirement": {
-        "role": "Mentor"
-      }
+      "ServiceName": "MyLearnerAPI",
+
+      "UpstreamPathTemplate": "/frontendlearnerr",
+      "UpstreamHttpMethod": ["Get"]
     }
-
-
   ]
 }

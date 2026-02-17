@@ -2,13 +2,14 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
+using Ocelot.Provider.Consul;
 using System.Text;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Configuration.AddJsonFile("Ocelot.json");
-builder.Services.AddOcelot();
+builder.Services.AddOcelot().AddConsul();
 
 
 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("This is my UST Teams Training Secret Key"));

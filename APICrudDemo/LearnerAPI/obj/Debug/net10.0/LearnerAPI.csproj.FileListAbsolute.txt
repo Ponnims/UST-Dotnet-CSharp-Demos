@@ -320,3 +320,4 @@ D:\Turmio.ai\UST Demos Track 2\APICrudDemo\LearnerAPI\obj\Debug\net10.0\refint\L
 D:\Turmio.ai\UST Demos Track 2\APICrudDemo\LearnerAPI\obj\Debug\net10.0\LearnerAPI.pdb
 D:\Turmio.ai\UST Demos Track 2\APICrudDemo\LearnerAPI\obj\Debug\net10.0\LearnerAPI.genruntimeconfig.cache
 D:\Turmio.ai\UST Demos Track 2\APICrudDemo\LearnerAPI\obj\Debug\net10.0\ref\LearnerAPI.dll
+D:\Turmio.ai\UST Demos Track 2\APICrudDemo\LearnerAPI\bin\Debug\net10.0\Consul.dll

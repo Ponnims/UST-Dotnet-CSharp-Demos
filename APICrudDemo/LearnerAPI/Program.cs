@@ -1,3 +1,4 @@
+using LearnerAPI;
 using LearnerAPI.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,7 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<LearnerDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection")));
+builder.Services.AddConsulConfig(builder.Configuration);
 
 //var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("This is my UST Teams Training Secret Key"));
 //builder.Services.AddAuthentication(options =>
@@ -40,6 +42,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseConsul(builder.Configuration);
 app.UseAuthentication();
 app.UseAuthorization();
 

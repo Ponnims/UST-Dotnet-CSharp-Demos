@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net10.0": {
+      "Consul/1.6.10.4": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Consul.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {}
+        }
+      },
       "FluentValidation/10.3.6": {
         "type": "package",
         "compile": {
@@ -238,6 +250,19 @@
           "lib/net6.0/Ocelot.dll": {}
         }
       },
+      "Ocelot.Provider.Consul/18.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Consul": "1.6.10.4",
+          "Ocelot": "18.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Ocelot.Provider.Consul.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Ocelot.Provider.Consul.dll": {}
+        }
+      },
       "System.IdentityModel.Tokens.Jwt/8.0.1": {
         "type": "package",
         "dependencies": {
@@ -258,6 +283,19 @@
     }
   },
   "libraries": {
+    "Consul/1.6.10.4": {
+      "sha512": "5L3O7XirEx3bJ03OjMVdi/hdRLpkH/gRilgMZzk55Is5ttJ4GamwW+aONfFVneTKRKBpcCw/gIH5qoz4zomi1g==",
+      "type": "package",
+      "path": "consul/1.6.10.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consul.1.6.10.4.nupkg.sha512",
+        "consul.nuspec",
+        "lib/net461/Consul.dll",
+        "lib/netstandard2.0/Consul.dll"
+      ]
+    },
     "FluentValidation/10.3.6": {
       "sha512": "iMd370ZDx6ydm8t7bIFdRbSKX0e42lpvCtifUSbTSXOk5iKjmgl7HU0PXBhIWQAyIRi3gCwfMI9luj8H6K+byw==",
       "type": "package",
@@ -560,6 +598,18 @@
         "ocelot.nuspec"
       ]
     },
+    "Ocelot.Provider.Consul/18.0.0": {
+      "sha512": "52TZfrblsnSuy6kWhoiPmZw+oBl0OG7DWdg2AmsMnKmDBu+vtb7KmLQZI0gFH1nyjx5uHhYK2yXfUQFBDBf2LA==",
+      "type": "package",
+      "path": "ocelot.provider.consul/18.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/Ocelot.Provider.Consul.dll",
+        "ocelot.provider.consul.18.0.0.nupkg.sha512",
+        "ocelot.provider.consul.nuspec"
+      ]
+    },
     "System.IdentityModel.Tokens.Jwt/8.0.1": {
       "sha512": "GJw3bYkWpOgvN3tJo5X4lYUeIFA2HD293FPUhKmp7qxS+g5ywAb34Dnd3cDAFLkcMohy5XTpoaZ4uAHuw0uSPQ==",
       "type": "package",
@@ -587,7 +637,8 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 10.0.3",
-      "Ocelot >= 18.0.0"
+      "Ocelot >= 18.0.0",
+      "Ocelot.Provider.Consul >= 18.0.0"
     ]
   },
   "packageFolders": {
@@ -645,6 +696,10 @@
             "version": "[10.0.3, )"
           },
           "Ocelot": {
+            "target": "Package",
+            "version": "[18.0.0, )"
+          },
+          "Ocelot.Provider.Consul": {
             "target": "Package",
             "version": "[18.0.0, )"
           }

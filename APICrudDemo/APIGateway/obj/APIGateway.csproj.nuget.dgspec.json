@@ -57,6 +57,10 @@
             "Ocelot": {
               "target": "Package",
               "version": "[18.0.0, )"
+            },
+            "Ocelot.Provider.Consul": {
+              "target": "Package",
+              "version": "[18.0.0, )"
             }
           },
           "imports": [
