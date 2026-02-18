@@ -145,8 +145,7 @@
               "RelativeToolTip": "LearnerAPI\\ServiceRegistryExtensions.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowBsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T05:55:33.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:55:33.216Z"
             },
             {
               "$type": "Document",
@@ -154,9 +153,9 @@
               "Title": "Ocelot.json",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Ocelot.json",
               "RelativeDocumentMoniker": "APIGateway\\Ocelot.json",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Ocelot.json*",
-              "RelativeToolTip": "APIGateway\\Ocelot.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 2\\APICrudDemo\\APIGateway\\Ocelot.json",
+              "RelativeToolTip": "APIGateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-16T04:17:42.693Z",
               "EditorCaption": ""
@@ -171,8 +170,7 @@
               "RelativeToolTip": "LearnerAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-20T04:34:05.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:34:05.194Z"
             },
             {
               "$type": "Document",
@@ -184,8 +182,7 @@
               "RelativeToolTip": "LearnerAPI\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:36:38.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:36:38.888Z"
             },
             {
               "$type": "Document",
@@ -197,8 +194,7 @@
               "RelativeToolTip": "APIGateway\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T04:18:18.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T04:18:18.334Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "AuthenticationService\\Services\\TokenGenerator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:33:55.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:33:55.617Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "APIGateway\\APIGateway.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-16T04:32:40.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T04:32:40.28Z"
             },
             {
               "$type": "Document",
@@ -245,8 +239,7 @@
               "RelativeToolTip": "LearnerAPI\\LearnerAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T04:27:52.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:27:52.313Z"
             },
             {
               "$type": "Document",
@@ -258,8 +251,7 @@
               "RelativeToolTip": "LearnerAPI\\Controllers\\LearnerController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAABRwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:38:45.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:38:45.994Z"
             },
             {
               "$type": "Document",
@@ -271,8 +263,7 @@
               "RelativeToolTip": "APIGateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T04:25:08.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T04:25:08.114Z"
             },
             {
               "$type": "Document",
@@ -284,8 +275,7 @@
               "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-12T05:06:04.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:06:04.857Z"
             },
             {
               "$type": "Document",
@@ -297,8 +287,7 @@
               "RelativeToolTip": "AuthenticationService\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAqwCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:26:16.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:26:16.055Z"
             },
             {
               "$type": "Document",
@@ -310,8 +299,7 @@
               "RelativeToolTip": "AuthenticationService\\Services\\ITokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:33:20.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:33:20.128Z"
             },
             {
               "$type": "Document",
@@ -323,8 +311,7 @@
               "RelativeToolTip": "AuthenticationService\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAABRwA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:06:41.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:06:41.414Z"
             },
             {
               "$type": "Document",
@@ -336,8 +323,7 @@
               "RelativeToolTip": "AuthenticationService\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:19:45.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:19:45.147Z"
             },
             {
               "$type": "Document",
@@ -349,8 +335,7 @@
               "RelativeToolTip": "AuthenticationService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T05:10:44.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:10:44.516Z"
             },
             {
               "$type": "Document",
@@ -362,8 +347,7 @@
               "RelativeToolTip": "AuthenticationService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:52:11.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:52:11.846Z"
             },
             {
               "$type": "Document",
@@ -375,8 +359,7 @@
               "RelativeToolTip": "AuthenticationService\\Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:18:13.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:18:13.28Z"
             },
             {
               "$type": "Document",
@@ -388,8 +371,7 @@
               "RelativeToolTip": "AuthenticationService\\Models\\UserDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T05:10:22.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T05:10:22.342Z"
             },
             {
               "$type": "Document",
@@ -401,8 +383,7 @@
               "RelativeToolTip": "LearnerApp\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T05:41:53.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:41:53.954Z"
             },
             {
               "$type": "Document",
@@ -414,8 +395,7 @@
               "RelativeToolTip": "LearnerApp\\Components\\Pages\\AddNewLearner.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T05:38:37.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:38:37.531Z"
             },
             {
               "$type": "Document",
@@ -427,8 +407,7 @@
               "RelativeToolTip": "LearnerApp\\Services\\LearnerApiService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T05:23:54.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:23:54.662Z"
             },
             {
               "$type": "Document",
@@ -440,8 +419,7 @@
               "RelativeToolTip": "LearnerApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T05:20:16.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:20:16.286Z"
             },
             {
               "$type": "Document",
@@ -453,8 +431,7 @@
               "RelativeToolTip": "LearnerApp\\Components\\Pages\\LearnerList.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T05:39:39.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:39:39.463Z"
             },
             {
               "$type": "Document",
@@ -466,8 +443,7 @@
               "RelativeToolTip": "LearnerApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T05:50:30.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:50:30.454Z"
             },
             {
               "$type": "Document",
@@ -479,8 +455,7 @@
               "RelativeToolTip": "LearnerApp\\Components\\Pages\\EditLearner.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T05:39:12.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:39:12.845Z"
             },
             {
               "$type": "Document",
@@ -492,8 +467,7 @@
               "RelativeToolTip": "LearnerApp\\LearnerApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T05:22:22.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:22:22.632Z"
             },
             {
               "$type": "Document",
@@ -505,8 +479,7 @@
               "RelativeToolTip": "LearnerApp\\Models\\LearnerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T05:17:24.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:17:24.233Z"
             },
             {
               "$type": "Document",
@@ -518,8 +491,7 @@
               "RelativeToolTip": "LearnerAPI\\Models\\Learner.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:30:28.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:30:28.768Z"
             },
             {
               "$type": "Document",
@@ -531,8 +503,7 @@
               "RelativeToolTip": "LearnerAPI\\Models\\LearnerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:33:31.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:33:31.248Z"
             }
           ]
         }
